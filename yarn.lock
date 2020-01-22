@@ -439,9 +439,9 @@ popper.js@^1.15.0, popper.js@^1.16.0:
   integrity sha512-+G+EkOPoE5S/zChTpmBSSDYmhXJ5PsW8eMhH8cP/CQHMFPBG/kC9Y5IIw6qNYgdJ+/COf0ddY2li28iHaZRSjw==
 
 quasar@^1.6.1:
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/quasar/-/quasar-1.6.1.tgz#401bb4f80e2333f1b0747fc0b38e9b76895dcb59"
-  integrity sha512-0FHNK6vzozboFcnonwjFO8pvxUncPxXX+tcV8P1vi8hlzxgeKkYgKTkCb7rWDH/ip1T8nxjYsD0+2w4IkCiW0w==
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/quasar/-/quasar-1.8.0.tgz#44fd0d78964a108c62fb012b8a9f1016dde4596d"
+  integrity sha512-pYulOIMTN2PoBZEHPnHNNJBSTiN5jAFgIO096zNXYyyn9YW80LgLoWDJOd6urVPYqWOBMpMuDmerxu/7RR3A+Q==
 
 regenerator-runtime@^0.12.0:
   version "0.12.1"
